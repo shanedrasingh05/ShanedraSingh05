@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://shanedrasingh.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shanedra Singh</h1>
 <h3 align="center">A passionate full-stack developer from Delhi, India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanedrasingh&label=Profile%20views&color=0e75b6&style=flat" alt="shanedrasingh" /> </p>
 
