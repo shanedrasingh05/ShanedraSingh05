@@ -25,3 +25,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanedrasingh&" alt="shanedrasingh" /></p>
 
+## 🏆 GitHub Trophies
+
+[![](https://github-profile-trophy.vercel.app/?username=shanedrasingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/shanedrasingh)<br><br>
+
+---
+
+
