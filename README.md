@@ -44,7 +44,7 @@
 
 | S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                               Linked Post                                                                                |
 | :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  01  | Wanderlust       | [Link](#)       | [Repository](#)       |     [Post](#)      |
+|  01  | Wanderlust       | [Link](https://wanderlust-project-shanedra.onrender.com)       | [Repository](https://github.com/ShanedraSingh/wanderlust-project)       |     [Post](https://www.linkedin.com/posts/shanedra-singh-47342821a_hello-everyone-im-presenting-wanderlust-activity-7227628574596288512-l5uT?utm_source=share&utm_medium=member_desktop)      |
 
 
 | S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
