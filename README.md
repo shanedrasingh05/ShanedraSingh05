@@ -54,7 +54,7 @@
 
 | S.No | Small Project    |                        Live Link                         |                          GitHub Link                           |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | MT Project       |       [Link](h#)       |    [Repository](#)    |
+|  01  | Travel_website      |       [Link](https://shanedrasingh.github.io/Travel_website/)       |    [Repository](https://github.com/ShanedraSingh/Travel_website)    |
 
 <a href="https://github.com/https:ShanedraSingh">
   <img src="https://imgur.com/rilHVxA.png"/>
