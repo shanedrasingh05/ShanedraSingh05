@@ -32,10 +32,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanedrasingh&" alt="shanedrasingh" /></p>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=shanedrasingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/shanedrasingh)<br><br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shanedrasingh&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+</p><br><br>
 
+### 📈 Contribution Graph
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanedrasingh&theme=tokyonight" width="100%" />
 ---
 
 
@@ -54,9 +59,9 @@
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
 |  01  | Travel_website      |       [Link](https://shanedrasingh.github.io/Travel_website/)       |    [Repository](https://github.com/ShanedraSingh/Travel_website)    |
 
-<a href="https://github.com/https:ShanedraSingh">
-  <img src="https://imgur.com/rilHVxA.png"/>
-</a>
+### 📱 Activity Graph
+
+<img alt="Bhavik's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shanedrasingh&theme=tokyo-night&hide_border=true" />
 
 <!-- <h3>Thanks! &#10084;<i class="fa fa-heart" style="font-size:48px;color:red"></i></h3> -->
 <h3>Thanks! &#10084;</h3>
