@@ -13,7 +13,6 @@
 <h3 align="center">A passionate full-stack developer from Delhi, India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
-
 🌱 I’m currently learning **Java with DSA**
 
 💬 Ask me about **full-stck developer**
@@ -32,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanedrasingh05&show_icons=true&locale=en" alt="shanedrasingh05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanedrasingh05&" alt="shanedrasingh05" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanedrasingh05&" alt="shanedrasingh05" /></p> -->
 
 ### 🏆 GitHub Trophies
 
@@ -42,24 +41,24 @@
 
 ### 📈 Contribution Graph
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanedrasingh&theme=tokyonight" width="100%" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shanedrasingh05&show_icons=true&locale=en" alt="shanedrasingh05" />
+</p>
 ---
-
 
 ## 🧑‍🏫 All Projects
 
-| S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                               Linked Post                                                                                |
-| :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  01  | Wanderlust       | [Link](https://wanderlust-project-shanedra.onrender.com)       | [Repository](https://github.com/shanedrasingh05/wanderlust-project)       |     [Post](https://www.linkedin.com/posts/shanedra-singh-47342821a_hello-everyone-im-presenting-wanderlust-activity-7227628574596288512-l5uT?utm_source=share&utm_medium=member_desktop)      |
+| S.No | Major Project |                        Live Link                         |                             GitHub Link                             |                                                                                     Linked Post                                                                                      |
+| :--: | :------------ | :------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  01  | Wanderlust    | [Link](https://wanderlust-project-shanedra.onrender.com) | [Repository](https://github.com/shanedrasingh05/wanderlust-project) | [Post](https://www.linkedin.com/posts/shanedra-singh-47342821a_hello-everyone-im-presenting-wanderlust-activity-7227628574596288512-l5uT?utm_source=share&utm_medium=member_desktop) |
 
+| S.No | Mini Major Project | Live Link |   GitHub Link   |
+| :--: | :----------------- | :-------: | :-------------: |
+|  01  | Life Track         | [Link]()  | [Repository](#) |
 
-| S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
-| :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
-|  01  | Life Track         |     [Link]()      |           [Repository](#)            |
-
-| S.No | Small Project    |                        Live Link                         |                          GitHub Link                           |
-| :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | Travel_website      |       [Link](https://shanedrasingh05.github.io/Travel_website/)       |    [Repository](https://github.com/shanedrasingh05/Travel_website)    |
+| S.No | Small Project  |                         Live Link                         |                           GitHub Link                           |
+| :--: | :------------- | :-------------------------------------------------------: | :-------------------------------------------------------------: |
+|  01  | Travel_website | [Link](https://shanedrasingh05.github.io/Travel_website/) | [Repository](https://github.com/shanedrasingh05/Travel_website) |
 
 ### 📱 Activity Graph
 
