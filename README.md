@@ -46,19 +46,52 @@
 </p>
 ---
 
-## 🧑‍🏫 All Projects
+## 🧑‍🏫 **All Projects**                                                                                                                                               
 
-| S.No | Major Project |                        Live Link                         |                             GitHub Link                             |                                                                                     Linked Post                                                                                      |
-| :--: | :------------ | :------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  01  | Wanderlust    | [Link](https://wanderlust-project-shanedra.onrender.com) | [Repository](https://github.com/shanedrasingh05/wanderlust-project) | [Post](https://www.linkedin.com/posts/shanedra-singh-47342821a_hello-everyone-im-presenting-wanderlust-activity-7227628574596288512-l5uT?utm_source=share&utm_medium=member_desktop) |
+| `S.No` | `  Major Project` |                       `Live Link`                        |                          `GitHub Link`                             |
+| :----: | :------------------- | :------------------------------------------------------: | :-------------------------------------------------------------: |
+|  `01`  | `Personal-Portfolio`           |      [`Link`](https://shanedrasingh.vercel.app/)      |    [`Repository`](https://github.com/shanedrasingh05/personal_portfolio)     |
+|  `02`  | `DevEat`         |     [`Link`](https://dev-eat.vercel.app/)      |    [`Repository`](https://github.com/shanedrasingh05/DevEat)    |
+|  `03`  | `WanderLust`     | [`Link`](https://wanderlust-project-shanedra.onrender.com/) | [`Repository`](https://github.com/shanedrasingh05/wanderlust-project)  |
+|  `04`  | `DevTV`     | [`Link`](https://dev-tv.vercel.app/) | [`Repository`](https://github.com/shanedrasingh05/DevTv)  |
+|  `05`  | `Task-Management`     | [`Link`](https://task-management-org.vercel.app/) | [`Repository`](https://github.com/shanedrasingh05/Task_Management)  |
+|  `06`  | `CarPrediction`     | [`Link`](https://carprediction-umutcw4dn4xzqtwpqwmwbe.streamlit.app/) | [`Repository`](https://github.com/shanedrasingh05/CarPrediction)  |
+|  `07`  | `Wavely`     | [`Link`](#) | [`Repository`](https://github.com/shanedrasingh05/Wavely)  |
 
-| S.No | Mini Major Project | Live Link |   GitHub Link   |
-| :--: | :----------------- | :-------: | :-------------: |
-|  01  | Life Track         | [Link]()  | [Repository](#) |
 
-| S.No | Small Project  |                         Live Link                         |                           GitHub Link                           |
-| :--: | :------------- | :-------------------------------------------------------: | :-------------------------------------------------------------: |
-|  01  | Travel_website | [Link](https://shanedrasingh05.github.io/Travel_website/) | [Repository](https://github.com/shanedrasingh05/Travel_website) |
+
+| `S.No` | `Mini Major Project` |                       `Live Link`                        |                          `GitHub Link`                          |
+| :----: | :------------------- | :------------------------------------------------------: | :-------------------------------------------------------------: |
+|  `01`  | `Weather-App`           |      [`Link`](https://shanedrasingh05.github.io/Weather_App/)      |    [`Repository`](https://github.com/shanedrasingh05/Weather_App)     |
+|  `02`  | `Tas-kWeb`         |     [`Link`](https://task-web-one.vercel.app/)      |    [`Repository`](https://github.com/shanedrasingh05/TaskWeb)    |
+|  `03`  | `INNOVAI`     | [`Link`](#) | [`Repository`](https://github.com/shanedrasingh05/INNOVAI)  |
+|  `04`  | `Animated-Form`   | [`Link`](https://shanedrasingh05.github.io/Animated_Form/)  |  [`Repository`](https://github.com/shanedrasingh05/Animated_Form)  |
+|  `05`  | `medical-assistant`       |  [`Link`](#)  |  [`Repository`](https://github.com/shanedrasingh05/medical-assistant)   |
+|  `06`  | `Card`       |  [`Link`](https://shanedrasingh05.github.io/Task_card)  |  [`Repository`](https://github.com/shanedrasingh05/Task_card/)   |
+|  `07`  | `Login-Page`       |  [`Link`](#)  |  [`Repository`](https://github.com/shanedrasingh05/Modern-Login-Page)   |
+|  `08`  | `real-estate-crm`       |  [`Link`](#)  |  [`Repository`](https://github.com/shanedrasingh05/real-estate-crm)   |
+|  `09`  | `NewsApp`       |  [`Link`](https://shanedrasingh05.github.io/NewsApp)  |  [`Repository`](https://github.com/shanedrasingh05/NewsApp)   |
+|  `10`  | `Chatbot`       |  [`Link`](https://shanedrasingh05.github.io/Chatbot/)  |  [`Repository`](https://github.com/shanedrasingh05/Chatbot)   |
+|  `11`  | `Admin-Panel`       |  [`Link`](https://shanedrasingh05.github.io/Admin-Panel/)  |  [`Repository`](https://github.com/shanedrasingh05/Admin-Panel)   |
+|  `12`  | `Cryptocurrency`       |  [`Link`](https://shanedrasingh05.github.io/Cryptocurrency/)  |  [`Repository`](https://github.com/shanedrasingh05/Cryptocurrency)   |
+|  `13`  | `Coming-Soon-Page`       |  [`Link`](https://shanedrasingh05.github.io/Coming-Soon-Page/)  |  [`Repository`](https://github.com/shanedrasingh05/Coming-Soon-Page)   |
+|  `14`  | `Product-Page-Design`       |  [`Link`](https://shanedrasingh05.github.io/Product-Page-Design/)  |  [`Repository`](https://github.com/shanedrasingh05/Product-Page-Design)   |
+|  `15`  | `Digital-Clock`       |  [`Link`](https://shanedrasingh05.github.io/Digital-Clock/)  |  [`Repository`](https://github.com/shanedrasingh05/Digital-Clock)   |
+|  `16`  | `Tour-and-Travel-Agency`       |  [`Link`](https://shanedrasingh05.github.io/Digital-Clock/)  |  [`Repository`](https://github.com/shanedrasingh05/Tour-and-Travel-Agency)   |
+
+
+
+
+| `S.No` | `Small Project`    |                        `Live Link`                         |                          `GitHub Link`                           |
+| :----: | :----------------- | :--------------------------------------------------------: | :--------------------------------------------------------------: |
+|  `01`  | `Progress-Bar`       |       [`Link`](https://shanedrasingh05.github.io/Progress-Bar/)       |    [`Repository`](https://github.com/shanedrasingh05/Progress-Bar)    |
+|  `02`  | `Mini-Calendar` | [`Link`](https://shanedrasingh05.github.io/Mini-Calendar/) | [`Repository`](https://github.com/shanedrasingh05/Mini-Calendar) |
+|  `03`  | `Text-to-Speech-Converter`   |  [`Link`](https://shanedrasingh05.github.io/Text-to-Speech-Converter/)  |  [`Repository`](https://github.com/shanedrasingh05/Text-to-Speech-Converter)  |
+|  `04`  | `Working-Email-Subscription`  | [`Link`](https://akashdeep023.github.io/Card_Project_Js/)  | [`Repository`](https://github.com/shanedrasingh05/Working-Email-Subscription)  |
+|  `05`  | `Form-Validation`  | [`Link`](https://shanedrasingh05.github.io/Form-Validation/)  | [`Repository`](https://github.com/shanedrasingh05/Form-Validation)  |
+
+
+
 
 ### 📱 Activity Graph
 
