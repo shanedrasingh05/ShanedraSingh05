@@ -41,7 +41,7 @@
 <a style="" href="https://x.com/shanedrasingh05">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanedrasingh05&theme=tokyonight"/>
 </a>
----
+
 
 ## 🧑‍🏫 **All Projects**                                                                                                                                               
 
